@@ -1,8 +1,9 @@
-## Meta | Mangata & Gallo
+<h3 align="center">Meta | Mangata & Gallo</h3>
 
-Home Page for Mangata and Gallo, a fictional jewelry store. 
-Built as part of the Meta - HTML and CSS in depth Certificate on Coursera.
+<p align="center">Home Page for Mangata and Gallo, a fictional jewelry store.<br>
+Built as part of the Meta - <a href="https://www.coursera.org/learn/html-and-css-in-depth">HTML and CSS in depth</a> Certificate on Coursera.</p><br>
 
-:camera: Assets
+---
+### :camera: Assets
 
 - Photos by <a href="https://www.behance.net/kirillmesmer">Kirill Mesmer</a>
