@@ -12,7 +12,7 @@ body {
     align-items: center;
 }
 
-/* == Header ==*/
+/* == Header == */
 
 header {
     display: flex;
@@ -26,9 +26,9 @@ header img {
     width: auto;
 }
 
-/* == End of Header ==*/
+/* == End of Header == */
 
-/* == Nav ==*/
+/* == Nav == */
 
 nav ul {
     list-style: none;
@@ -53,11 +53,11 @@ nav a:hover {
     transition: 500ms;
 }
 
-/* == End of Nav ==*/
+/* == End of Nav == */
 
-/* == Main ==*/
+/* == Main == */
 
-/* == About Section ==*/
+/* == About Section == */
 
 .about {
     margin-top: 20px;
@@ -67,7 +67,7 @@ main section:nth-child(1) {
     position: relative;
     width: 100%;
     height: 30rem;
-    overflow: hidden
+    overflow: hidden;
 }
 
 main section:nth-child(1) img {
@@ -113,9 +113,9 @@ main section:nth-child(1) img {
     text-transform: normal;
 }
 
-/* == About Section ==*/
+/* == About Section == */
 
-/* == Discount Section ==*/
+/* == Discount Section == */
 
 .discount {
     height: auto;
@@ -137,9 +137,9 @@ main section:nth-child(1) img {
     font-weight: 600;
 }
 
-/* == End of Discount Section ==*/
+/* == End of Discount Section == */
 
-/* == Products Section ==*/
+/* == Products Section == */
 
 .container {
     display: flex;
@@ -211,9 +211,9 @@ main section:nth-child(1) img {
   background-color: black;
 }
 
-/* == End of Main ==*/
+/* == End of Main == */
 
-/* == Footer ==*/
+/* == Footer == */
 
 .footer {
     border-top: 1px solid #efefef;
@@ -269,4 +269,4 @@ footer img {
     text-align: center;
 }
 
-/* == End of Footer ==*/
+/* == End of Footer == */
